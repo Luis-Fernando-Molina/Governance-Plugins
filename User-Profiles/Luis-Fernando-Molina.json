@@ -7939,32 +7939,32 @@
                 "type": "Social Persona",
                 "name": "Social Persona #3",
                 "project": "Social-Trading",
-                "id": "fc8891fe-81f7-453b-9979-fc885bd26214",
+                "id": "937cc165-a70e-45a7-b7ab-464211cd4eb6",
                 "config": "{\n    \"handle\": \"Pepe\",\n    \"codeName\": \"Social-Persona-3\"\n}",
                 "signingAccount": {
                     "type": "Signing Account",
                     "name": "New Signing Account",
                     "project": "Governance",
-                    "id": "7ee49489-8069-4c7d-a0f1-047a6fd329d7",
-                    "config": "{\"codeName\":\"Social-Persona-3\",\"signature\":{\"message\":\"Luis-Fernando-Molina\",\"messageHash\":\"0x443abf3389e332a62d21b84dd12e271cb428d334195d3aeb986ca85ee53cccb9\",\"v\":\"0x1b\",\"r\":\"0x74c9594551ae570d30364c29ff46c1f9cb1b5771fd4dc2fad09f45ad6662985b\",\"s\":\"0x6e8487279455a2bd0276f3ab56a4f8e8f386b0cb27606518e68df0c3398f3f28\",\"signature\":\"0x74c9594551ae570d30364c29ff46c1f9cb1b5771fd4dc2fad09f45ad6662985b6e8487279455a2bd0276f3ab56a4f8e8f386b0cb27606518e68df0c3398f3f281b\"}}"
+                    "id": "4886cfb1-3e24-4ca1-bd7e-26dc0af73f97",
+                    "config": "{\"codeName\":\"Social-Persona-3\",\"signature\":{\"message\":\"Luis-Fernando-Molina\",\"messageHash\":\"0x443abf3389e332a62d21b84dd12e271cb428d334195d3aeb986ca85ee53cccb9\",\"v\":\"0x1b\",\"r\":\"0x5cc8d269bb8c1b57920e98c8a395c0dac53a159d774600e912673a592c29a961\",\"s\":\"0x47fda4a7335e50fce2457cfd1b8ff3ace569adc87c0ec5f16dd0fb7a7802d82d\",\"signature\":\"0x5cc8d269bb8c1b57920e98c8a395c0dac53a159d774600e912673a592c29a96147fda4a7335e50fce2457cfd1b8ff3ace569adc87c0ec5f16dd0fb7a7802d82d1b\"}}"
                 },
                 "availableStorage": {
                     "type": "Available Storage",
                     "name": "New Available Storage",
                     "project": "Open-Storage",
-                    "id": "3bc3ae89-e815-42e9-bf84-c1ae16ad1c61",
+                    "id": "2720bc34-6e99-4ba2-9eb8-316622beed7c",
                     "storageContainerReferences": [
                         {
                             "type": "Storage Container Reference",
                             "name": "New Storage Container Reference",
                             "project": "Open-Storage",
-                            "id": "dd87bc99-eb53-4ad7-b6c8-d375c151d71a",
+                            "id": "d635e2a3-8839-44a9-8482-1035109cec54",
                             "config": "{}",
                             "savedPayload": {
                                 "referenceParent": {
                                     "type": "Github Storage Container",
                                     "name": "New Github Storage Container",
-                                    "id": "fe654cf3-6dcf-4b13-a2de-4ac26c864c6b"
+                                    "id": "891a421d-8552-4ea7-b4cd-3028f384b253"
                                 }
                             }
                         }
@@ -8608,7 +8608,7 @@
                     "type": "Github Storage Container",
                     "name": "New Github Storage Container",
                     "project": "Open-Storage",
-                    "id": "fe654cf3-6dcf-4b13-a2de-4ac26c864c6b",
+                    "id": "891a421d-8552-4ea7-b4cd-3028f384b253",
                     "config": "{\"codeName\":\"Pepe-Social-Persona-Data\",\"githubUserName\":\"Luis-Fernando-Molina\",\"repositoryName\":\"Pepe-Social-Persona-Data\"}"
                 }
             ],
